@@ -1,6 +1,6 @@
 # Modern Todo List Application
 
-A beautiful and modern Todo List application built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring a dark mode UI with glassmorphism effects.
+A beautiful and modern Todo List application built  with reactjs   featuring a dark mode UI with glassmorphism effects.
 
 ## Features
 
